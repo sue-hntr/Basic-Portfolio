@@ -1,0 +1,28 @@
+header{
+    width: 960px;
+    margin: 0 auto;
+}
+section{
+    width: 960px;
+    margin: 0 auto;
+}
+h1{
+
+}
+
+/******* header all pages css ********/
+.pghdr-name{
+    color: white;
+}
+.pghdr-links{
+
+}
+
+/******** content section basic css ********/
+.cnt-hdr{
+    background-color: white;
+}
+
+.cnt-bdy{
+
+}
